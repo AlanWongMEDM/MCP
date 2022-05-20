@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["views-Home"],{bb51:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-container",{attrs:{id:"Home",fluid:"",tag:"section"}},[t("view-intro",{attrs:{heading:"Welcome to MCP Admin Platform"}})],1)},o=[],i={name:"Home",data:function(){return{}}},r=i,c=t("2877"),l=t("6544"),s=t.n(l),u=t("a523"),d=Object(c["a"])(r,a,o,!1,null,null,null);e["default"]=d.exports;s()(d,{VContainer:u["a"]})}}]);
+//# sourceMappingURL=views-Home.0e9da20c.js.map
