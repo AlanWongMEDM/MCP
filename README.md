@@ -210,3 +210,4 @@ If you have questions or need help integrating the product please reach out in [
 - [Free Vuetify Themes](https://store.vuetifyjs.com/collections/free-products)
 - [Discord](https://discord.com/invite/s93b7Fv)
 - [Twitter](https://twitter.com/vuetifyjs)
+"# MCP" 
