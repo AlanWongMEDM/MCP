@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["views-Maintenance"],{a5ed:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-container",{attrs:{id:"Maintenance",fluid:"",tag:"section"}},[t("view-intro",{attrs:{heading:n.$vuetify.lang.t("$vuetify.maintenance")}})],1)},i=[],c={name:"Maintenance"},r=c,s=t("2877"),u=t("6544"),l=t.n(u),o=t("a523"),w=Object(s["a"])(r,a,i,!1,null,null,null);e["default"]=w.exports;l()(w,{VContainer:o["a"]})}}]);
+//# sourceMappingURL=views-Maintenance.a02bb3d7.js.map
